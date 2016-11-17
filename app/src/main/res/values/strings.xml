@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidMVPSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="city">城市:</string>
+    <string name="wd">\n风向:</string>
+    <string name="ws">\n风级:</string>
+    <string name="time">\n发布时间:</string>
+    <string name="mvp">MVP+Retrofit+Rxjava</string>
+    <string name="meinvtu">美女图</string>
+    <string name="fragment">ListFragment</string>
+    <string name="mvp_retrofit_rxjava_recyclerview">MVP+Retrofit+Rxjava+activity支持下拉刷新,加载更多</string>
+    <string name="mvp_retrofit_rxjava_recyclerview1">MVP+Retrofit+Rxjava+fragment支持下拉刷新,加载更多</string>
+</resources>
